@@ -8,9 +8,9 @@
 I'm trying to give everyone credit for these TPs but I don't know every source, so if you have a file here, let me know!
 I'm available at discord, DM me @lihgrandini ;)
 </p>
-
-Credits for known authors:
 <hr>
+Credits for known authors:
+<p></p>
 <a href="https://github.com/Minato0211/minato-jsons/blob/main/README.md">Minato JSONs</a> | <a href="https://github.com/Schvis/Share/blob/main/DailyTP.rar">Daily TP files</a>
     
 </body>
