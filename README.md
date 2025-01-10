@@ -8,8 +8,10 @@ This is mostly a repack and sorting of others folders I found online + I added m
 The purpose is to create folders with a mix of everything a character needs to be leveled (ascension + talents).<br>
 Goal is to have characters and signature weapons + other weapons as we go.<br>
 <p></p>
-I'm currently updating this topic with all I have available, so it might not have the caracter you're looking for, for now.
+Notice that inside each folder the teleports are named with the correspondent mob/plant/mineral/thing you're farming.<br>
+So, if you want to farm just a specific mob or thing, delete the other files!
 <p></p>
+I'm currently updating this topic with all I have available, so it might not have the caracter you're looking for, for now.<br>
 Last Update: Jan, 2025.
 <hr>
 I'm trying to give everyone credit for these TPs but I don't know every source, so if you have a file here, let me know!<br>
