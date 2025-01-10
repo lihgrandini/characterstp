@@ -6,6 +6,7 @@
 <a href="https://github.com/lihgrandini/characterstp/blob/main/Mavuika/Mavuika.rar">Ascension Materials + Talents</a>
 <br>
 <a href="">A Thousand Blazing Suns (Signature Weapon)</a>
+<a href="">Ascension + Signature Weapon</a>
   
   </div>
 </body>
