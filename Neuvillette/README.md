@@ -5,7 +5,7 @@
 <p></p>
 <img src="https://i.imgur.com/xIHB3vS.png"><br>
     Neuvillette has locations for farming outside of Teyvat (Sea of Bygone Eras)<br>
-    Please make sure to teleport there before starting the teleport route<br>
+    Please make sure to teleport there before starting the teleport route that are listed as <b>Sea of Bygone Eras</b>.<br>
 <p></p>
 <a href="">Neuvillette Ascension Materials + Talents</a><br>
 <a href="">Tome of Eternal Flow (Signature Weapon)</a><br>
