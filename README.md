@@ -2,10 +2,11 @@
   <div align="center">
     <h1>Hi and welcome to the Characters TP List</h1>
 
-<img scr="https://github.com/user-attachments/assets/9de1d9f7-8566-4976-aee0-2a6ee7578cc1)">
+<img src="https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200723/2020072319142329434.png">
 
 <p> This is mostly a repack of others folders I found online + I added my own spots that were missing.
 I'm trying to give everyone credit for these TPs but I don't know every source, so if you have a file here, let me know!
+I'm available at discord, DM me @lihgrandini ;)
 </p>
 
 Credits for known authors:
