@@ -11,7 +11,7 @@ Goal is to have characters and signature weapons + other weapons as we go.<br>
 I'm currently updating this topic with all I have available, so it might not have the caracter you're looking for, for now.
 <p></p>
 Last Update: Jan, 2025.
-<p></p>
+<hr>
 I'm trying to give everyone credit for these TPs but I don't know every source, so if you have a file here, let me know!<br>
 I'm available at discord, DM me @lihgrandini ;)<p></p>
 <hr>
