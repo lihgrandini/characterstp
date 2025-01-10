@@ -15,8 +15,7 @@ Last Update: Jan, 2025.
 I'm trying to give everyone credit for these TPs but I don't know every source, so if you have a file here, let me know!<br>
 I'm available at discord, DM me @lihgrandini ;)<p></p>
 <hr>
-Credits for known authors:
-<p></p>
+Credits for known authors:<br>
 <a href="https://github.com/Minato0211/minato-jsons/blob/main/README.md">Minato JSONs</a> | <a href="https://github.com/Schvis/Share/blob/main/DailyTP.rar">Daily TP files</a>
     
 </body>
