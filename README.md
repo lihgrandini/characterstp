@@ -4,7 +4,7 @@
 
 <img src="https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200723/2020072319142329434.png" widht=200 height=300>
 <p></p>
-This is mostly a repack of others folders I found online + I added my own spots that were missing.<br>
+This is mostly a repack and sorting of others folders I found online + I added my own spots that were missing.<br>
 The purpose is to create folders with a mix of everything a character needs to be leveled (ascension + talents).<br>
 Goal is to have characters and signature weapons + other weapons as we go.<br>
 <p></p>
