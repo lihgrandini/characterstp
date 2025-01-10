@@ -10,6 +10,6 @@ I'm available at discord, DM me @lihgrandini ;)
 </p>
 
 Credits for known authors:
-<a href="https://github.com/Minato0211/minato-jsons/blob/main/README.md">Minato JSONs </a> | <a href="https://github.com/Schvis/Share/blob/main/DailyTP.rar"> Daily TP files </a>
+<a href="https://github.com/Minato0211/minato-jsons/blob/main/README.md">Minato JSONs</a> | <a href="https://github.com/Schvis/Share/blob/main/DailyTP.rar">Daily TP files</a>
     
 </body>
