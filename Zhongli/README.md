@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Zhongli </h1>
-<img src="https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png/revision/latest/scale-to-width/360?cb=20220507161902" width=500>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png/revision/latest/scale-to-width/360?cb=20220507161902" width=300>
 <p></p>
 <img src="https://i.imgur.com/xIHB3vS.png"><br>
     Zhongli has locations for farming outside of Teyvat (The Chasm)<br>
