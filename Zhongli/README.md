@@ -7,9 +7,9 @@
     Zhongli has locations for farming outside of Teyvat (The Chasm)<br>
     Please make sure to teleport there before starting the teleport route that is listed as <b>The Chasm</b>.<br>
 <p></p>
-<a href="">Zhongli Ascension Materials + Talents</a><br>
-<a href="">Vortex Vanquisher (Signature Weapon)</a><br>
-<a href="">Ascension + Talents + Signature Weapon</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Zhongli/Zhongli.rar">Zhongli Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Zhongli/Vortex%20Vanquisher.rar">Vortex Vanquisher (Signature Weapon)</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Zhongli/Zhongli%20Full.rar">Ascension + Talents + Signature Weapon</a>
   
   </div>
 </body>
