@@ -7,9 +7,9 @@
     Arlecchino has locations for farming outside of Teyvat (Sea of Bygone Eras)<br>
     Please make sure to teleport there before starting the teleport route that is listed as <b>Sea of Bygone Eras</b>.<br>
 <p></p>
-<a href="https://github.com/lihgrandini/characterstp/blob/main/Arlecchino/Arlecchino.rar">Arlecchino Ascension Materials + Talents</a><br>
-<a href="https://github.com/lihgrandini/characterstp/blob/main/Arlecchino/Crimson%20Moon's%20Semblance.rar">Crimson Moon's Semblance (Signature Weapon)</a><br>
-<a href="https://github.com/lihgrandini/characterstp/blob/main/Arlecchino/Full%20Arlecchino.rar">Ascension + Talents + Signature Weapon</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Arlecchino/Arlecchino.rar">Arlecchino Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Arlecchino/Crimson%20Moon's%20Semblance.rar">Crimson Moon's Semblance (Signature Weapon)</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Arlecchino/Full%20Arlecchino.rar">Ascension + Talents + Signature Weapon</a>
   
   </div>
 </body>
