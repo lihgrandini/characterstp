@@ -2,7 +2,7 @@
   <div align="center">
     <h1>Hi and welcome to the Characters + Weapons TP List</h1><p></p>
 <a href="">Characters</a> | <a href="">Weapons</a><p></p>
-Characters and Signature weapons will be inside CHARACTERS.<br>
+Characters and Signature Weapons will be inside CHARACTERS.<br>
 Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <img src="https://i.imgur.com/jCWk3eP.png" widht=200 height=300>
 <p></p>
