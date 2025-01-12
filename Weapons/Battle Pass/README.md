@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Battle Pass Weapons </h1>
-<img src="https://i.imgur.com/1OFG9xx.png" width=500>
+<img src="https://i.imgur.com/1OFG9xx.png">
 
 <a href="">The Black Sword (Sword)</a><br>
 <a href="">Serpent Spine (Claymore)</a><br>
