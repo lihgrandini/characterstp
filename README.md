@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1>Hi and welcome to the Characters + Weapons TP List</h1><p></p>
-<a href="">Characters</a> | <a href="">Weapons</a>
+<a href="">Characters</a> | <a href="">Weapons</a><p></p>
 <img src="https://i.imgur.com/jCWk3eP.png" widht=200 height=300>
 <p></p>
 This is mostly a repack and sorting of others folders I found online + I added my own spots that were missing.<br>
