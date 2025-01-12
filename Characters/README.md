@@ -7,8 +7,8 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <img src="https://i.imgur.com/YgOJ9yy.png" widht=200 height=300>
 <hr>
 <h2>5 stars</h2>
-<a href="">Arlecchino</a> | <a href="">Citlali</a> | <a href="">Clorinde</a> | <a href="">Mavuika</a> | <a href="">Neuvillette</a> | <a href="">Zhongli</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino">Arlecchino</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali">Citlali</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde">Clorinde</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika">Mavuika</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette">Neuvillette</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli">Zhongli</a>
 <hr>
 <h2>4 stars</h2>
-<a href="">Bennett</a> | <a href="">Diona</a> | <a href="">Kachina</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett">Bennett</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona">Diona</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a>
 </body>
