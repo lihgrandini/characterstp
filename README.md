@@ -1,8 +1,8 @@
 <body>
   <div align="center">
-    <h1>Hi and welcome to the Characters TP List</h1>
-
-<img src="https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200723/2020072319142329434.png" widht=200 height=300>
+    <h1>Hi and welcome to the Characters + Weapons TP List</h1><p></p>
+<a href="">Characters</a> | <a href="">Weapons</a>
+<img src="https://i.imgur.com/jCWk3eP.png" widht=200 height=300>
 <p></p>
 This is mostly a repack and sorting of others folders I found online + I added my own spots that were missing.<br>
 The purpose is to create folders with a mix of everything a character needs to be leveled (ascension + talents).<br>
