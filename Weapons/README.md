@@ -10,7 +10,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="">Celestial Collection</a>
 <hr>
 <h2>4 stars</h2>
-<a href="">Battle Pass</a> | <a href="">Events</a> | <a href="">Banners</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Weapons/Battle%20Pass/README.md">Battle Pass</a> | <a href="">Events</a> | <a href="">Banners</a>
 <hr>
 <h2>3 stars</h2>
 <a href="">World Drop</a> | <a href="">Banner Drop</a>
