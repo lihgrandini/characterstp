@@ -7,7 +7,7 @@
 Keqing has locations for farming outside of Teyvat (The Chasm)<br>
 Please make sure to teleport there before starting the teleport route that is listed as <b>The Chasm</b>.<br>
 <p></p>
-<a href="">Keqing Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Keqing/Keqing.rar">Keqing Ascension Materials + Talents</a><br>
 <p></p>
 <i>Keqing is a 5-star character that does not have a Signature Weapon.</i><br>
 You can find non-specific weapons in the <a href="https://github.com/lihgrandini/characterstp/tree/main/Weapons">weapon folder</a>.
