@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Qiqi </h1>
-<img src="https://i.pinimg.com/564x/8f/c1/af/8fc1affda3c85aba519ba1df62ca40b9.jpg" width=500>
+<img src="https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B8%2583%25E4%25B8%2583/avatar.png" width=500>
 <p></p>
 <a href="">Qiqi Ascension Materials + Talents</a><br>
 <p></p>
