@@ -19,7 +19,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiao">Xiao</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli">Zhongli</a>
 <hr>
-<h2>Standart Banner</h2>
+<h2>Standard Banner</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Keqing">Keqing</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Qiqi">Qiqi</a>
 <hr>
