@@ -27,7 +27,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett">Bennett</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse">Chevreuse</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona">Diona</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan">Lan Yan</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a>
 </body>
