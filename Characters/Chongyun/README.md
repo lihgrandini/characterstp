@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Chongyun </h1>
-<img src="https://static.wikia.nocookie.net/genshin-impact/images/2/2f/Personagem_Chongyun_Desejo.png/revision/latest/scale-to-width/360?cb=20220907163440&path-prefix=pt-br" width=500>
+<img src="https://static.wikia.nocookie.net/gensin-impact/images/4/48/Chongyun_Wish.png/revision/latest/scale-to-width-down/985?cb=20231214214618" width=500>
 <p></p>
 <a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Chongyun/Chongyun.rar">Chongyun Ascension Materials + Talents</a><br>
   
