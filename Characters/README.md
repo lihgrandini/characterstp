@@ -24,10 +24,20 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Qiqi">Qiqi</a>
 <hr>
 <h2>4 stars</h2>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Beidou">Beidou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett">Bennett</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse">Chevreuse</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun">Chongyun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona">Diona</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming">Gaming</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan">Lan Yan</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang">Ningguang</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiangling">Xiangling</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xingqiu">Xingqiu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xinyan">Xinyan</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yanfei">Yanfei</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yaoyao">Yaotyao</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yun%20Jin">Yun Jin</a>
 </body>
