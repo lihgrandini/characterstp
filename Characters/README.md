@@ -38,6 +38,6 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xingqiu">Xingqiu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xinyan">Xinyan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yanfei">Yanfei</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yaoyao">Yaotyao</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yaoyao">Yaoyao</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yun%20Jin">Yun Jin</a>
 </body>
