@@ -11,12 +11,16 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu">Baizhu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali">Citlali</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde">Clorinde</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina">Furina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu">Ganyu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika">Mavuika</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette">Neuvillette</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe">Shenhe</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne">Sigewinne</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)">Tartaglia</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Wriothesley">Wriothesley</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiao">Xiao</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yumemizuki%20Mizuki">Yumemizuki Mizuki</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli">Zhongli</a>
 <hr>
 <h2>Standard Banner</h2>
