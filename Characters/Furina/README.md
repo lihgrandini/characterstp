@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Furina </h1>
-<img src="https://upload-os-bbs.hoyolab.com/upload/2023/09/27/134370421/102f9c09c70e3faf3b3882d1d113eb98_7898968899799001643.png?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70" width=400>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4c61658e-d4be-4618-b1fa-e9594b9b6908/dgeschn-de283aa7-589a-4805-98ec-d7aa9474bfa1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjNjE2NThlLWQ0YmUtNDYxOC1iMWZhLWU5NTk0YjliNjkwOFwvZGdlc2Nobi1kZTI4M2FhNy01ODlhLTQ4MDUtOThlYy1kN2FhOTQ3NGJmYTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7iJZ8HvWTAkZKkJVOazDfxleecIGRWxI0fPLpjqLUao" width=300>
 <p></p>
 <a href="">Furina Ascension Materials + Talents</a><br>
 <a href="">Splendor of Tranquil Waters (Signature Weapon)</a><br>
