@@ -7,9 +7,9 @@
     Sigewinne has locations for farming outside of Teyvat (Sea of Bygone Eras)<br>
     Please make sure to teleport there before starting the teleport route that is listed as <b>Sea of Bygone Eras</b>.<br>
 <p></p>
-<a href="">Sigewinne Ascension Materials + Talents</a><br>
-<a href="">Silvershower Heartstrings (Signature Weapon)</a><br>
-<a href="">Ascension + Talents + Signature Weapon</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Sigewinne/Sigewinne.rar">Sigewinne Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Sigewinne/Silvershower%20Heartstrings.rar">Silvershower Heartstrings (Signature Weapon)</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Sigewinne/Sigewinne%20Full.rar">Ascension + Talents + Signature Weapon</a>
   
   </div>
 </body>
