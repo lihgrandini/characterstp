@@ -34,12 +34,12 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun">Chongyun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona">Diona</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming">Gaming</a> | 
-<a href="">Gorou</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou">Gorou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan">Lan Yan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang">Ningguang</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a> | 
-<a href="">Sayu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sayu">Sayu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiangling">Xiangling</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xingqiu">Xingqiu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xinyan">Xinyan</a> | 
