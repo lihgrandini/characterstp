@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1>Hi and welcome to the Characters + Weapons List</h1><p></p>
-<a href="">Characters</a> | <a href="">Weapons</a><p></p>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters">Characters</a> | <a href="https://github.com/lihgrandini/characterstp/tree/main/Weapons">Weapons</a><p></p>
 Characters and Signature Weapons will be inside CHARACTERS.<br>
 Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <img src="https://i.imgur.com/jCWk3eP.png" widht=200 height=300>
