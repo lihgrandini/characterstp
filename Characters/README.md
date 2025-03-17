@@ -41,6 +41,7 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming/README.md">Gaming</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou/README.md">Gorou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina/README.md">Kachina</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kaveh/README.md">Kaveh</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mika/README.md">Mika</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang/README.md">Ningguang</a> | 
