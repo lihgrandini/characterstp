@@ -33,6 +33,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <h2>4 stars</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Beidou/README.md">Beidou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett/README.md">Bennett</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Charlotte/README.md">Charlotte</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse/README.md">Chevreuse</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun/README.md">Chongyun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona/README.md">Diona</a> | 
@@ -40,6 +41,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou/README.md">Gorou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina/README.md">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mika/README.md">Mika</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang/README.md">Ningguang</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria/README.md">Rosaria</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sayu/README.md">Sayu</a> | 
