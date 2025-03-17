@@ -6,7 +6,7 @@ Characters and Signature Weapons will be inside CHARACTERS.<br>
 Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <img src="https://i.imgur.com/YgOJ9yy.png" widht=200 height=300>
 <hr>
-<h2>5 stars</h2>
+<h2>Limited - 5 stars</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino/README.md">Arlecchino</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu/README.md">Baizhu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali/README.md">Citlali</a> | 
@@ -25,7 +25,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Xilonen/README.md">Xilonen</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli/README.md">Zhongli</a>
 <hr>
-<h2>Standard Banner</h2>
+<h2>Standard Banner - 5 stars</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Keqing/README.md">Keqing</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Qiqi/README.md">Qiqi</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yumemizuki%20Mizuki/README.md">Yumemizuki Mizuki</a>
