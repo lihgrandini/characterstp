@@ -4,7 +4,8 @@
 <a href="">Characters</a> | <a href="">Weapons</a><p></p>
 Characters and Signature Weapons will be inside CHARACTERS.<br>
 Weapons that do not belong to anyone will be inside WEAPONS.<br>
-<img src="https://i.imgur.com/YgOJ9yy.png" widht=200 height=300>
+<img src="https://i.imgur.com/YgOJ9yy.png" widht=200 height=300><br>
+This list is sorted by <i>Alfabetic Order</i>.
 <hr>
 <h2>Limited - 5 stars</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino/README.md">Arlecchino</a> | 
@@ -43,6 +44,7 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mika/README.md">Mika</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang/README.md">Ningguang</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ororon/README.md">Ororon</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria/README.md">Rosaria</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sayu/README.md">Sayu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiangling/README.md">Xiangling</a> | 
