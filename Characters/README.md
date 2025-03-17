@@ -7,43 +7,46 @@ Weapons that do not belong to anyone will be inside WEAPONS.<br>
 <img src="https://i.imgur.com/YgOJ9yy.png" widht=200 height=300>
 <hr>
 <h2>5 stars</h2>
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino">Arlecchino</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu">Baizhu</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali">Citlali</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde">Clorinde</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina">Furina</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu">Ganyu</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika">Mavuika</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette">Neuvillette</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe">Shenhe</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne">Sigewinne</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)">Tartaglia</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Wriothesley">Wriothesley</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiao">Xiao</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli">Zhongli</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino/README.md">Arlecchino</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu/README.md">Baizhu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali/README.md">Citlali</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde/README.md">Clorinde</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina/README.md">Furina</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu/README.md">Ganyu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika/README.md">Mavuika</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette/README.md">Neuvillette</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe/README.md">Shenhe</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne/README.md">Sigewinne</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Venti/README.md">Venti</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Wriothesley/README.md">Wriothesley</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xianyun/README.md">Xianyun</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiao/README.md">Xiao</a> | 
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Xilonen/README.md">Xilonen</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Zhongli/README.md">Zhongli</a>
 <hr>
 <h2>Standard Banner</h2>
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Keqing">Keqing</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Qiqi">Qiqi</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yumemizuki%20Mizuki">Yumemizuki Mizuki</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Keqing/README.md">Keqing</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Qiqi/README.md">Qiqi</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yumemizuki%20Mizuki/README.md">Yumemizuki Mizuki</a>
 <hr>
 <h2>4 stars</h2>
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Beidou">Beidou</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett">Bennett</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse">Chevreuse</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun">Chongyun</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona">Diona</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming">Gaming</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou">Gorou</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina">Kachina</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan">Lan Yan</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang">Ningguang</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria">Rosaria</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sayu">Sayu</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiangling">Xiangling</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xingqiu">Xingqiu</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xinyan">Xinyan</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yanfei">Yanfei</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yaoyao">Yaoyao</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yun%20Jin">Yun Jin</a>
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Beidou/README.md">Beidou</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Bennett/README.md">Bennett</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse/README.md">Chevreuse</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun/README.md">Chongyun</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona/README.md">Diona</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming/README.md">Gaming</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou/README.md">Gorou</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina/README.md">Kachina</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ningguang/README.md">Ningguang</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Rosaria/README.md">Rosaria</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sayu/README.md">Sayu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xiangling/README.md">Xiangling</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xingqiu/README.md">Xingqiu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xinyan/README.md">Xinyan</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yanfei/README.md">Yanfei</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yaoyao/README.md">Yaoyao</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Yun%20Jin/README.md">Yun Jin</a>
 </body>
