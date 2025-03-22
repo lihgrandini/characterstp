@@ -9,16 +9,18 @@ This list is sorted by <i>Alfabetic Order</i>.
 <hr>
 <h2>Limited - 5 stars</h2>
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Arlecchino/README.md">Arlecchino</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ayato/README.md">Ayato</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu/README.md">Baizhu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali/README.md">Citlali</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde/README.md">Clorinde</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina/README.md">Furina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu/README.md">Ganyu</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kazuha/README.md">Kazuha</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika/README.md">Mavuika</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette/README.md">Neuvillette</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe/README.md">Shenhe</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne/README.md">Sigewinne</a> | 
-<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia (Childe)</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Venti/README.md">Venti</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Wriothesley/README.md">Wriothesley</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xianyun/README.md">Xianyun</a> | 
