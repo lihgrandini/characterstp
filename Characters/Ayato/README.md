@@ -7,9 +7,9 @@
     Ayato has locations for farming outside of Teyvat (The Chasm)<br>
     Please make sure to teleport there before starting the teleport route that is listed as <b>The Chasm</b>.<br>
 <p></p>
-<a href="">Ayato Ascension Materials + Talents</a><br>
-<a href="">Haran Geppaku Futsu (Signature Weapon)</a><br>
-<a href="">Ascension + Talents + Signature Weapon</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Ayato/Ayato.rar">Ayato Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Ayato/Haran%20Geppaku%20Futsu.rar">Haran Geppaku Futsu (Signature Weapon)</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Ayato/Ayato%20Full.rar">Ascension + Talents + Signature Weapon</a>
   
   </div>
 </body>
