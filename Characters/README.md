@@ -21,6 +21,7 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe/README.md">Shenhe</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne/README.md">Sigewinne</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia (Childe)</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Varesa/README.md">Varesa</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Venti/README.md">Venti</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Wriothesley/README.md">Wriothesley</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Xianyun/README.md">Xianyun</a> | 
@@ -42,6 +43,7 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona/README.md">Diona</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming/README.md">Gaming</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou/README.md">Gorou</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Iansan/README.md">Iansan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina/README.md">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kaveh/README.md">Kaveh</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
