@@ -13,11 +13,15 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu/README.md">Baizhu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali/README.md">Citlali</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde/README.md">Clorinde</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Escoffier/README.md">Escoffier</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina/README.md">Furina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu/README.md">Ganyu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kazuha/README.md">Kazuha</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kinich/README.md">Kinich</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Mavuika/README.md">Mavuika</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Navia/README.md">Navia</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Neuvillette/README.md">Neuvillette</a> | 
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Raiden%20Shogun/README.md">Raiden Shogun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe/README.md">Shenhe</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne/README.md">Sigewinne</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia (Childe)</a> | 
@@ -41,9 +45,11 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chevreuse/README.md">Chevreuse</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Chongyun/README.md">Chongyun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Diona/README.md">Diona</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Faruzan/README.md">Faruzan</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gaming/README.md">Gaming</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Gorou/README.md">Gorou</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Iansan/README.md">Iansan</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ifa/README.md">Ifa</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kachina/README.md">Kachina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Kaveh/README.md">Kaveh</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Lan%20Yan/README.md">Lan Yan</a> | 
