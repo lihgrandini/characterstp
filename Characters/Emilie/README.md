@@ -7,9 +7,9 @@
     Emilie has locations for farming outside of Teyvat (Sea of Bygone Eras)<br>
     Please make sure to teleport there before starting the teleport route that is listed as <b>Sea of Bygone Eras</b>.<br>
 <p></p>
-<a href="">Emilie Ascension Materials + Talents</a><br>
-<a href="">Lumidouce Elegy (Signature Weapon)</a><br>
-<a href="">Ascension + Talents + Signature Weapon</a>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Emilie/Emilie.rar">Emilie Ascension Materials + Talents</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Emilie/Lumidouce%20Elegy.rar">Lumidouce Elegy (Signature Weapon)</a><br>
+<a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Emilie/Emilie%20Full.rar">Ascension + Talents + Signature Weapon</a>
   
   </div>
 </body>
