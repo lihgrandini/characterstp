@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <h1> Emilie </h1>
-<img src="https://i.imgur.com/l8zMq8k.png" width=500>
+<img src="https://i.imgur.com/l8zMq8k.png" width=300>
 <p></p>
 <img src="https://i.imgur.com/xIHB3vS.png"><br>
     Emilie has locations for farming outside of Teyvat (Sea of Bygone Eras)<br>
