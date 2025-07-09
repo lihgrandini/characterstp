@@ -13,6 +13,7 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Baizhu/README.md">Baizhu</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Citlali/README.md">Citlali</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Clorinde/README.md">Clorinde</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Emilie/README.md">Emilie</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Escoffier/README.md">Escoffier</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Furina/README.md">Furina</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Ganyu/README.md">Ganyu</a> | 
@@ -24,6 +25,7 @@ This list is sorted by <i>Alfabetic Order</i>.
 <a href="https://github.com/lihgrandini/characterstp/blob/main/Characters/Raiden%20Shogun/README.md">Raiden Shogun</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Shenhe/README.md">Shenhe</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Sigewinne/README.md">Sigewinne</a> | 
+<a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Skirk/README.md">Skirk</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Tartaglia%20(Childe)/README.md">Tartaglia (Childe)</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Varesa/README.md">Varesa</a> | 
 <a href="https://github.com/lihgrandini/characterstp/tree/main/Characters/Venti/README.md">Venti</a> | 
