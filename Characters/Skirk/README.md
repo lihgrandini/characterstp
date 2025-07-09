@@ -6,7 +6,7 @@
 <a href="">Skirk Ascension Materials + Talents</a><br>
 <a href="">Azurelight** (Signature Weapon)</a><br>
 <a href="">Ascension + Talents + Signature Weapon</a>
-
+<br>
 ** Azurelight's item from Tenebrous Mimiflora is not available yet. I'll need to do it manually and check every point since my folder is not updated and I'm not having time.
   
   </div>
